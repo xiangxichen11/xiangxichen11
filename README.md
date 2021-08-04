@@ -5,7 +5,7 @@ I am a second year Computer Science student at the University of British Columbi
 
 Here is how you can reach me:
 
-- [Personal Website](https://xiangxichen11.github.io/)
+- [Personal Website](https://xiangxichen11.github.io/personal-website/)
 - [LinkedIn](https://www.linkedin.com/in/xiangxichen/)
 - [Email](xiangxi.chen.ca@gmail.com)
 
